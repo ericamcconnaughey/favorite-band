@@ -13,9 +13,12 @@ h2, p {
 .sidebar {
   float: right;
   background-color: aquamarine;
-  margin: 20px;
+  border: 5px white solid;
+  margin: 30px;
+  padding 30px;
   height: 200px;
-  width: 220px;
+  width: 250px;
+  text-align: center;
 }
 
 .photos {
@@ -24,4 +27,5 @@ h2, p {
 
 img {
   height: 200px;
+  padding: 30px;
 }
