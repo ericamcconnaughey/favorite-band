@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: aqua;
+}
+
+h2, p {
+  color: gold;
+}
+
+.sidebar {
+  float: right;
+  background-color: aquamarine;
+  margin: 20px;
+  height: 200px;
+  width: 220px;
+}
+
+.photos {
+  float: left;
+}
+
+img {
+  height: 200px;
+}
